@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabiru9010
+- 👋 Hi, I’m @gabiru9010 and I'm just starting using GITHUB
 - 👀 I’m interested in Simulink simulation and automotive embedded software
 - 🌱 I’m currently learning Matlab, Simulink, State Flow, Simscape and Python
 - 💞️ I’m looking to collaborate on Model Based design for automotive Systems
