@@ -2,6 +2,7 @@
 - 👀 I’m interested in Simulink simulation and automotive embedded software
 - 🌱 I’m currently learning Matlab, Simulink, State Flow, Simscape and Python
 - 💞️ I’m looking to collaborate on Model Based design for automotive Systems
+- Now I'm studing Data Science to colaborete in my goals at automotive engineering
 - 📫 How to reach me ...
 
 <!---
